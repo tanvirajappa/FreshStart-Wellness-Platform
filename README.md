@@ -12,21 +12,21 @@ A responsive web application designed to promote wellness, habit improvement, jo
 
 ### Homepage
 
-![Homepage](Screenshots/homepage1.png)
-![Homepage](Screenshots/homepage2.png)
+![Homepage](homepage1.png)
+![Homepage](homepage2.png)
 
 
 ### Journal
 
-![Journal](Screenshots/journalpage.png)
+![Journal](journalpage.png)
 
 ### SOS
 
-![SOS](Screenshots/sos1.png)
-![SOS](Screenshots/sos2.png)
+![SOS](sos1.png)
+![SOS](sos2.png)
 
 ### Craving Tips
-![Craving Tips](Screenshots/cravingtipspage.png)
+![Craving Tips](cravingtipspage.png)
 
 
 ---
