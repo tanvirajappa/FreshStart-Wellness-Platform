@@ -1,22 +1,50 @@
-# FreshStart Wellness Platform
+# 🌱 FreshStart Wellness Platform
 
-A responsive web application focused on wellness, habit improvement, journaling, and self-development.
+A responsive web application designed to promote wellness, habit improvement, journaling, and personal growth through a simple and engaging user experience.
 
-## Features
+## 🌐 Live Demo
 
-- User-friendly interface
-- Wellness-focused design
-- Journal section
-- Login page
-- Responsive layout
-- Interactive elements using JavaScript
+**Website:** https://tanvirajappa.github.io/FreshStart-Wellness-Platform/
 
-## Technologies Used
+---
 
-- HTML
-- CSS
-- JavaScript
+## ✨ Features
 
-## Purpose
+* 🔐 User Login
+* 📖 Personal Journal
+* 🚨 SOS Section
+* 💡 Wellness Tips
+* 📈 Progress Tracker
+* 📱 Responsive Design
+* 🎨 Clean and Modern User Interface
 
-FreshStart was created as a web development project to promote personal growth, healthy habits, and self-improvement through a simple and engaging user experience.
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## 🎯 Project Objective
+
+FreshStart was developed as a frontend web development project to encourage healthier habits, self-reflection, and personal growth through an accessible and user-friendly wellness platform.
+
+---
+
+## 🚀 Future Improvements
+
+* User Authentication
+* Database Integration
+* Personalized Habit Tracking
+* Cloud Data Storage
+* Mobile Application
+* AI-powered Wellness Suggestions
+
+---
+
+## 👩‍💻 Author
+
+**Tanvi Rajappa**
