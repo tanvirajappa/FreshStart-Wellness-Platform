@@ -8,6 +8,29 @@ A responsive web application designed to promote wellness, habit improvement, jo
 
 ---
 
+## 📸 Screenshots
+
+### Homepage
+
+![Homepage](Screenshots/homepage1.png)
+![Homepage](Screenshots/homepage2.png)
+
+
+### Journal
+
+![Journal](Screenshots/journalpage.png)
+
+### SOS
+
+![SOS](Screenshots/sos1.png)
+![SOS](Screenshots/sos2.png)
+
+### Craving Tips
+![Craving Tips](Screenshots/cravingtipspage.png)
+
+
+---
+
 ## ✨ Features
 
 * 🔐 User Login
