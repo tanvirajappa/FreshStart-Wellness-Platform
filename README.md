@@ -68,6 +68,6 @@ FreshStart was developed as a frontend web development project to encourage heal
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Tanvi Rajappa**
